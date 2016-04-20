@@ -1,7 +1,7 @@
 # ISO-3166-1-Alpha-Contry-Code-Mapping
 A simple library that maps between the Alpha-2 and Alpha-3 country codes
 
-... It's pretty much two large dicts.
+... It's pretty much two large dicts. Let's be honest. Most of you are here to directly copy and paste the dicts themselves anyway.
 
 Four functions are included:
 
